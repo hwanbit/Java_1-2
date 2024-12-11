@@ -7,7 +7,7 @@ import java.awt.*;
 
 public class MainFrame extends JFrame {
 
-    public static final int FRAME_WIDTH = 600;
+    public static final int FRAME_WIDTH = 700;
     public static final int FRAME_HEIGHT = 500;
 
     public static int FRAME_X = 300;
@@ -28,6 +28,7 @@ public class MainFrame extends JFrame {
         OrderInfoView orderInfoView = new OrderInfoView();
         add(orderInfoView, "Center");
 
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocation(FRAME_X, FRAME_Y);
         setSize(FRAME_WIDTH, FRAME_HEIGHT);
         setVisible(true);
