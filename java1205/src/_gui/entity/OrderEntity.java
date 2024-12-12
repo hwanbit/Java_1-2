@@ -3,7 +3,6 @@ package _gui.entity;
 import java.sql.Timestamp;
 
 public class OrderEntity {
-
     private String orderNum;
     private String orderCustomer;
     private String customerName;
@@ -25,6 +24,10 @@ public class OrderEntity {
         return orderCustomer;
     }
 
+    public void setOrderCustomer(String orderCustomer) {
+        this.orderCustomer = orderCustomer;
+    }
+
     public String getCustomerName() {
         return customerName;
     }
@@ -39,10 +42,6 @@ public class OrderEntity {
 
     public void setProductName(String productName) {
         this.productName = productName;
-    }
-
-    public void setOrderCustomer(String orderCustomer) {
-        this.orderCustomer = orderCustomer;
     }
 
     public String getOrderProduct() {

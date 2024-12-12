@@ -1,0 +1,10 @@
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\bin\Debug\CreateImages.exe.config
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\bin\Debug\CreateImages.exe
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\bin\Debug\CreateImages.pdb
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.csproj.AssemblyReference.cache
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.Form1.resources
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.Properties.Resources.resources
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.csproj.GenerateResource.cache
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.csproj.CoreCompileInputs.cache
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.exe
+D:\Javaproject\C_Sharp\CreateImages\CreateImages\obj\Debug\CreateImages.pdb
